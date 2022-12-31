@@ -5,5 +5,5 @@
 ## [未踏社団](https://www.mitou.org/)の活動例
 
 - [未踏ジュニア - MITOU for U-17](https://jr.mitou.org/) (:octocat: [mitou/jr.mitou.org](https://github.com/mitou/jr.mitou.org/))
-- [起業ファイナンスレポート](https://github.com/mitou/startup_financing_report) (:octocat: [mitou/startup_financing_report](https://github.com/mitou/startup_financing_report))
 - [未踏社団 - Mitou Foundation](https://www.mitou.org/) (:octocat: [mitou/mitou.github.io](https://github.com/mitou/mitou.github.io))
+- [起業ファイナンスレポート](https://github.com/mitou/startup_financing_report) (:octocat: [mitou/startup_financing_report](https://github.com/mitou/startup_financing_report))
